@@ -1,0 +1,5 @@
+﻿  Server.cpp
+f:\vs\computer intnet\filetranss\filetranss\server.cpp(174): warning C4305: “=”: 从“int”到“char”截断
+f:\vs\computer intnet\filetranss\filetranss\server.cpp(174): warning C4309: “=”: 截断常量值
+f:\vs\computer intnet\filetranss\filetranss\server.cpp(238): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  FileTransS.vcxproj -> F:\VS\Computer Intnet\FileTransS\Debug\FileTransS.exe
